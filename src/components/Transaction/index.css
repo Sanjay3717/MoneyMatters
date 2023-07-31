@@ -1,0 +1,20 @@
+.transaction-type-btn {
+  border: 0px solid;
+  background: transparent;
+  font-size: 20px;
+  cursor: pointer;
+}
+.transaction-details {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  align-items: center;
+}
+.transaction-app-container {
+  display: flex;
+  background-color: #f3f5f7;
+  min-height: 100vh;
+}
+.transaction-container {
+  margin-left: 20px;
+}
